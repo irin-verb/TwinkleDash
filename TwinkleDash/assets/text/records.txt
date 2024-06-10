@@ -1,0 +1,9 @@
+Katya 40
+Vanya 30
+Petya 32
+Tanya 25
+Anton 60
+Anya 55
+Denis 33
+Anna 10
+Sasha 3

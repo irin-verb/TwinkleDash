@@ -1,0 +1,6 @@
+This game was created as a course project for the first half of the third year in the Software Engineering program.
+
+Completed by: Verbickaya I.S.
+Checked by: Mitroshin A.A.
+
+Year 2023
