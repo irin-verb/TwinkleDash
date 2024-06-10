@@ -9,7 +9,7 @@
 >
 > Course work at the university. Game "Twinkle Dash"
 
-**Предмет (Subject)** :  Компьютерная графика / Computer graphics
+**Предмет / Subject** :  Компьютерная графика / Computer graphics
 
 **Курс / Course** : 3ий курс / 3rd course
 
